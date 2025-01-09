@@ -121,7 +121,7 @@ python descripts/crawler.py
 ---
 
 ## **Estrutura de Pastas**
-
+```
 .
 ├── app
 │   ├── main.py  # Ponto de entrada
@@ -139,6 +139,9 @@ python descripts/crawler.py
 ├── Dockerfile
 └── docker-compose.yml
 
+```
+
+---
 
 ## **Considerações Finais**
 O projeto é facilmente extensível com novos endpoints e integrações. Em caso de problemas, verifique se as configurações de variáveis de ambiente e caminhos de arquivos estão corretos. Para dúvidas ou melhorias, envie feedback! 🚀

@@ -16,7 +16,6 @@ venv/
 
 # IDEs/Editor Configs
 .vscode/
-.idea/
 
 # Arquivos temporários do sistema
 .DS_Store
@@ -33,7 +32,3 @@ alembic/versions/*.pyc
 *.coverage
 .coverage.*
 
-# Node.js (se houver alguma integração de front-end)
-node_modules/
-dist/
-build/

@@ -1,0 +1,39 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.log
+*.env
+
+# Diretórios Virtuais
+venv/
+.env/
+
+# Banco de Dados
+*.db
+*.sqlite3
+
+# IDEs/Editor Configs
+.vscode/
+.idea/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
+*.sock
+
+# Alembic
+alembic/versions/*.pyc
+
+# Arquivos de teste gerados
+*.coverage
+.coverage.*
+
+# Node.js (se houver alguma integração de front-end)
+node_modules/
+dist/
+build/

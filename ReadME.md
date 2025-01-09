@@ -131,7 +131,7 @@ python descripts/crawler.py
 │   ├── routers
 │   │   └── tasks.py  # Endpoints da API
 │   └── tests
-├── descripts
+├── scripts
 │   └── crawler.py  # Script de importação de tarefas
 ├── alembic  # Migrações do banco de dados
 ├── requirements.txt
